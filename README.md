@@ -1,0 +1,2 @@
+The data on which I did a project is of the “Amazon Sale” in 2022 of April and May. This report shows Amazon's sales across all the states and union territories. This report records the sales for one month of 2022 for different items (T-shirts, Shirt, Blazer, Trousers, Perfume, Socks, Shoes, Wallet and Watch). In this, we use various ways and functions to analyze the data and make it easy to read and understand by cleaning and summarizing it.
+I'm using the software (Anaconda Navigator) in Jupyter Notebook for cleaning, analyzing, interpreting, and summarizing the data.
